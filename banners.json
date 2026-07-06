@@ -12,8 +12,8 @@
         "en": "Scheduled maintenance"
       },
       "message": {
-        "fr": "Notre application sera temporairement indisponible le 14 juillet 2026 afin de réaliser une opération de maintenance. Pendant cette période, les services ne seront pas accessibles.Nous vous remercions de votre compréhension.",
-        "en": "Our application will be temporarily unavailable on July 14, 2026, for maintenance. Services will not be accessible during this time. Thank you for your understanding."
+        "fr": "Notre application sera temporairement indisponible le 14 juillet 2026 afin de réaliser une opération de maintenance.\nPendant cette période, les services ne seront pas accessibles.Nous vous remercions de votre compréhension.",
+        "en": "Our application will be temporarily unavailable on July 14, 2026, for maintenance.\nServices will not be accessible during this time. Thank you for your understanding."
       }
     }
   ]
