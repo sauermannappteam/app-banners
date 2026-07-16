@@ -3,7 +3,7 @@
   "banners": [
     {
       "id": "migration-azure-2026",
-      "apps": ["tracklog", "pilot", "control", "combustion"],
+      "apps": ["tracklog", "medifroid", "pilot", "control", "combustion"],
       "type": "warning",
       "start_at": "2026-07-01T01:00:00Z",
       "end_at":   "2026-07-16T23:00:00Z",
