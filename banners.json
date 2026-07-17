@@ -7,7 +7,7 @@
       "envs": ["preprod"],
       "type": "warning",
       "start_at": "2026-07-01T01:00:00Z",
-      "end_at":   "2026-07-16T23:00:00Z",
+      "end_at":   "2026-07-31T23:00:00Z",
       "title": {
         "fr": "Maintenance programmée",
         "it": "Manutenzione programmata",
