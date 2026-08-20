@@ -3,9 +3,29 @@
   "banners": [
     {
       "id": "migration-azure-2026",
-      "apps": ["pilot", "control", "combustion", "tracklog", "medifroid"],
+      "apps": ["pilot", "control", "combustion"],
       "envs": ["preprod"],
       "type": "warning",
+      "start_at": "2026-07-01T01:00:00Z",
+      "end_at":   "2026-08-31T23:00:00Z",
+      "title": {
+        "fr": "Maintenance programmée",
+        "it": "Manutenzione programmata",
+        "es": "Mantenimiento programado",
+        "en": "Scheduled maintenance"
+      },
+      "message": {
+        "fr": "Notre application sera temporairement indisponible le 14 juillet 2026 afin de réaliser une opération de maintenance.\nPendant cette période, les services ne seront pas accessibles.Nous vous remercions de votre compréhension.",
+        "it": "La nostra applicazione non sarà temporaneamente disponibile il 14 luglio 2026 per interventi di manutenzione.\nLos servicios no estarán accesibles durante este periodo. Agradecemos su comprensión.",
+        "es": "Nuestra aplicación no estará disponible temporalmente el 14 de julio de 2026 debido a tareas de mantenimiento.\nI servizi non saranno accessibili durante questo periodo. Grazie per la comprensione.",
+        "en": "Our application will be temporarily unavailable on July 14, 2026, for maintenance.\nServices will not be accessible during this time. Thank you for your understanding."
+      }
+    }, 
+   {
+      "id": "i-and-v-2026",
+      "apps": ["tracklog", "medifroid"],
+      "envs": ["preprod"],
+      "type": "info",
       "start_at": "2026-07-01T01:00:00Z",
       "end_at":   "2026-08-31T23:00:00Z",
       "title": {
