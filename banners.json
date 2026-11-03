@@ -15,10 +15,10 @@
         "en": "Scheduled maintenance"
       },
       "message": {
-        "fr": "Notre application sera temporairement indisponible le 14 juillet 2026 afin de réaliser une opération de maintenance.\nPendant cette période, les services ne seront pas accessibles.\n\nNous vous remercions de votre compréhension.",
-        "it": "La nostra applicazione non sarà temporaneamente disponibile il 14 luglio 2026 per interventi di manutenzione.\nLos servicios no estarán accesibles durante este periodo.\n\nAgradecemos su comprensión.",
-        "es": "Nuestra aplicación no estará disponible temporalmente el 14 de julio de 2026 debido a tareas de mantenimiento.\nI servizi non saranno accessibili durante questo periodo.\n\nGrazie per la comprensione.",
-        "en": "Our application will be temporarily unavailable on July 14, 2026, for maintenance.\nServices will not be accessible during this time.\n\nThank you for your understanding."
+        "fr": "Notre intervention est terminée, vous pouvez utiliser votre application.\nMerci de votre compréhension.",
+        "it": "Il nostro intervento è terminato, potete utilizzare la vostra applicazione.\nGrazie per la comprensione.",
+        "es": "Nuestra intervención ha finalizado; ya puede utilizar su aplicación.\nGracias por su comprensión.",
+        "en": "Our work is complete; you may now use your application. \nThank you for your understanding."
       }
     }, 
     {
