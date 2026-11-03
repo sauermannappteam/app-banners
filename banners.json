@@ -3,7 +3,7 @@
   "banners": [
     {
       "id": "migration-azure-2026",
-      "apps": ["tracklog", "medifroid"],
+      "apps": ["tracklog", "medifroid", "pilot"],
       "envs": ["preprod"],
       "type": "info",
       "start_at": "2026-11-03T01:00:00Z",
@@ -22,7 +22,7 @@
       }
     }, 
     {
-      "id": "2026-10-03-mep-emqx",
+      "id": "mep-emqx-2026",
       "apps": ["tracklog", "medifroid"],
       "envs": ["prod"],
       "type": "info",
