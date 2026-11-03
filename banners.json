@@ -21,7 +21,7 @@
         "en": "Our application will be temporarily unavailable on July 14, 2026, for maintenance.\nServices will not be accessible during this time.\n\nThank you for your understanding."
       }
     }, 
-   {
+    {
       "id": "2026-10-03-mep-emqx",
       "apps": ["tracklog", "medifroid"],
       "envs": ["prod"],
@@ -35,10 +35,10 @@
         "en": "Scheduled maintenance"
       },
       "message": {
-        "fr": "Notre intervention est terminée, vous pouvez utiliser votre application.\n\nMerci de votre compréhension.",
-        "it": "Il nostro intervento è terminato, potete utilizzare la vostra applicazione.\n\nGrazie per la comprensione.",
-        "es": "Nuestra intervención ha finalizado; ya puede utilizar su aplicación.\n\nGracias por su comprensión.",
-        "en": "Our work is complete; you may now use your application. \n\nThank you for your understanding."
+        "fr": "Notre intervention est terminée, vous pouvez utiliser votre application.\nMerci de votre compréhension.",
+        "it": "Il nostro intervento è terminato, potete utilizzare la vostra applicazione.\nGrazie per la comprensione.",
+        "es": "Nuestra intervención ha finalizado; ya puede utilizar su aplicación.\nGracias por su comprensión.",
+        "en": "Our work is complete; you may now use your application. \nThank you for your understanding."
       }
     }
   ]
