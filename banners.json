@@ -22,12 +22,12 @@
       }
     }, 
    {
-      "id": "i-and-v-2026",
-      "apps": ["pilot", "tracklog", "medifroid"],
-      "envs": ["preprod"],
-      "type": "warning",
-      "start_at": "2026-10-26T01:00:00Z",
-      "end_at":   "2026-10-30T23:00:00Z",
+      "id": "2026-10-03-mep-emqx",
+      "apps": ["tracklog", "medifroid"],
+      "envs": ["prod"],
+      "type": "info",
+      "start_at": "2026-11-03T01:00:00Z",
+      "end_at":   "2026-11-03T23:00:00Z",
       "title": {
         "fr": "Maintenance programmée",
         "it": "Manutenzione programmata",
@@ -35,10 +35,10 @@
         "en": "Scheduled maintenance"
       },
       "message": {
-        "fr": "Notre application sera temporairement indisponible le 14 juillet 2026 afin de réaliser une opération de maintenance.\nTest I&V en cours...",
-        "it": "La nostra applicazione non sarà temporaneamente disponibile il 14 luglio 2026 per interventi di manutenzione.\nLos servicios no estarán accesibles durante este periodo. Agradecemos su comprensión.",
-        "es": "Nuestra aplicación no estará disponible temporalmente el 14 de julio de 2026 debido a tareas de mantenimiento.\nI servizi non saranno accessibili durante questo periodo. Grazie per la comprensione.",
-        "en": "Test I&V ongoing ... \nServices will not be accessible during this time. Thank you for your understanding."
+        "fr": "Notre intervention est terminée, vous pouvez utiliser votre application.\n\nMerci de votre compréhension.",
+        "it": "Il nostro intervento è terminato, potete utilizzare la vostra applicazione.\n\nGrazie per la comprensione.",
+        "es": "Nuestra intervención ha finalizado; ya puede utilizar su aplicación.\n\nGracias por su comprensión.",
+        "en": "Our work is complete; you may now use your application. \n\nThank you for your understanding."
       }
     }
   ]
