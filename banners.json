@@ -18,7 +18,7 @@
         "fr": "Notre intervention est terminée, vous pouvez utiliser votre application.\nMerci de votre compréhension.",
         "it": "Il nostro intervento è terminato, potete utilizzare la vostra applicazione.\nGrazie per la comprensione.",
         "es": "Nuestra intervención ha finalizado; ya puede utilizar su aplicación.\nGracias por su comprensión.",
-        "en": "Our work is complete; you may now use your application. \nThank you for your understanding."
+        "en": "Our work is complete; you may now use your application.\nThank you for your understanding."
       }
     }, 
     {
@@ -35,10 +35,10 @@
         "en": "Scheduled maintenance"
       },
       "message": {
-        "fr": "Dans le cadre d'une opération de maintenance, l'accès et les services de votre application seront indisponibles le mardi 1er Décembre de 8h à 18h.\nNous nous excusons par avance pour la gêne occasionnée",
-        "it": "Nell'ambito di un'operazione di manutenzione, l'accesso e i servizi della vostra applicazione non saranno disponibili martedì 1° dicembre, dalle 8:00 alle 18:00.\nCi scusiamo in anticipo per il disagio arrecato.",
-        "es": "Debido a tareas de mantenimiento, el acceso y los servicios de su aplicación no estarán disponibles el martes 1 de diciembre, de 8:00 a 18:00 h.\nPedimos disculpas de antemano por las molestias ocasionadas.",
-        "en": "Due to maintenance work, access to your application and its services will be unavailable on Tuesday, December 1st, from 8:00 AM to 6:00 PM.\nWe apologize in advance for any inconvenience this may cause."
+        "fr": "Dans le cadre d'une opération de maintenance, l'accès et les services de votre application seront indisponibles le mardi 1er Décembre de 8h à 18h.\nMerci de votre compréhension.",
+        "it": "Nell'ambito di un'operazione di manutenzione, l'accesso e i servizi della vostra applicazione non saranno disponibili martedì 1° dicembre, dalle 8:00 alle 18:00.\nGrazie per la comprensione.",
+        "es": "Debido a tareas de mantenimiento, el acceso y los servicios de su aplicación no estarán disponibles el martes 1 de diciembre, de 8:00 a 18:00 h.\nGracias por su comprensión.",
+        "en": "Due to maintenance work, access to your application and its services will be unavailable on Tuesday, December 1st, from 8:00 AM to 6:00 PM.\nThank you for your understanding."
       }
     }
   ]
