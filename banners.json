@@ -23,7 +23,7 @@
     }, 
     {
       "id": "mep-mco-nov-2026",
-      "apps": ["tracklog", "medifroid"],
+      "apps": ["tracklog", "medifroid", "pilot"],
       "envs": ["prod"],
       "type": "info",
       "start_at": "2026-11-18T01:00:00Z",
